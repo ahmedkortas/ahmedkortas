@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedkortas" alt="ahmedkortas" /></a> </p>
 
-- 🔭 I’m currently studying on [RBK](https://www.rebootkamp.net/)
+
 
 - 👯 I’m looking to collaborate **with other content creators**
 
